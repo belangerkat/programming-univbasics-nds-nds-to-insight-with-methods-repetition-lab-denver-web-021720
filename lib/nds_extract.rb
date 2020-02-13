@@ -50,7 +50,7 @@ def total_gross(source)
   end
   total
 end
-  
+
   # Write this implementation
   #
   # Should use methods:
